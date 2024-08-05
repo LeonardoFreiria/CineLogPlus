@@ -9,6 +9,4 @@ import {BarraDeNavegacaoComponent} from "./barra-de-navegacao/barra-de-navegacao
   templateUrl: "./app.component.html",
   styleUrl: "./app.component.scss",
 })
-export class AppComponent {
-  title = "CineLog-Plus";
-}
+export class AppComponent {}
